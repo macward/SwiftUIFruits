@@ -13,6 +13,7 @@
 		5009DFD725ACB0F9006FB233 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5009DFD625ACB0F9006FB233 /* Preview Assets.xcassets */; };
 		50439E0125AD2A71001088AC /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50439E0025AD2A71001088AC /* FruitCardView.swift */; };
 		50439E0425AD36F4001088AC /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50439E0325AD36F4001088AC /* StartButtonView.swift */; };
+		504F8BA625ADE06A0074C26A /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 504F8BA525ADE06A0074C26A /* OnboardingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5009DFD825ACB0F9006FB233 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		50439E0025AD2A71001088AC /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
 		50439E0325AD36F4001088AC /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
+		504F8BA525ADE06A0074C26A /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 			children = (
 				5009DFCF25ACB0F8006FB233 /* SwiftUIFruitsApp.swift */,
 				5009DFD125ACB0F8006FB233 /* ContentView.swift */,
+				504F8BA525ADE06A0074C26A /* OnboardingView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				50439E0125AD2A71001088AC /* FruitCardView.swift in Sources */,
 				50439E0425AD36F4001088AC /* StartButtonView.swift in Sources */,
 				5009DFD225ACB0F8006FB233 /* ContentView.swift in Sources */,
+				504F8BA625ADE06A0074C26A /* OnboardingView.swift in Sources */,
 				5009DFD025ACB0F8006FB233 /* SwiftUIFruitsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
